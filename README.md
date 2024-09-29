@@ -53,7 +53,8 @@ The `langchain_community` library provides connectors and tools to integrate var
 
 **ChromaDB** is a high-performance vector database designed for handling embeddings. It supports fast, scalable storage and retrieval of text embeddings, enabling efficient search and question-answering across large document sets. By persisting data in `duckdb+parquet`, it ensures low-latency access while maintaining durability.
 ### ChromaDB Architecture
-![ChromaDB](https://github.com/user-attachments/assets/09e4c6ff-7de7-4518-a28e-7ebbadb14757)
+![ChromaDB](https://github.com/user-attachments/assets/33a4648b-ddfb-4f12-a0c9-e33774051992)
+
 
 ## Setup Instructions
 
