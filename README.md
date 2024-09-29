@@ -35,6 +35,7 @@ This project is a **Generative AI-powered Question Answering (QA) system** that 
 **LaMini-T5-738M** is a lightweight text-to-text model from MBZUAI's LaMini family. It is designed for efficient question answering tasks. The model generates answers by understanding the context of questions based on provided document content. You can download the model via Hugging Face's repository:
 
 ```bash
+git lfs install
 git clone https://huggingface.co/MBZUAI/LaMini-T5-738M
 ```
 
