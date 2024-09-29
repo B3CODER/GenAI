@@ -83,10 +83,3 @@ streamlit run app.py
 
 This project demonstrates how to use **ChromaDB**, **LangChain**, and **Hugging Face** models to build an effective PDF search and question-answering tool. By combining text embeddings and generative models, users can search large volumes of text data and get relevant answers efficiently.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
